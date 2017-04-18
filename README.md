@@ -1,3 +1,3 @@
-## Open Referral Google
+## Open Referral AWS
 
-URL: http://open.referral.google.adopta.agency
+URL: http://open.referral.aws.adopta.agency
